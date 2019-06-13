@@ -1,9 +1,2 @@
-"# javascript" 
-"# javascript" 
-"# rap-generator" 
-"# security-system" 
-"# calculator" 
-"# calender" 
-"# library-management-system" 
-"# stone-paper-scissors" 
+# C Programming Language 
 "# tic-tac-toe" 
